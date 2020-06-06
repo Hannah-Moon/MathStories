@@ -19,3 +19,12 @@ REBECU1111-1142-1963
 
 ## Keywords 
 Oncology . Physical therapy specialty . Education . Teaching and methods . Education, distance . Education, higher
+
+## Introduction 
+- Increased number of cancer patients require increas number of oncology professions 
+- Survival rate increases with professional sequel treatments
+- The more good performance undergraduate students, the better oncology specialist
+- Specific performance is required for undergraduate students that will foster a greater acceptance of oncology 
+- Elearning grant the area of oncology and understanding multi disciplinary nature
+- Currently e-learning does not fully offer the curriculum that in class offer.  
+- "In this sense, the realization of a random- ized, controlled crossover study with similar content between the groups, evaluating the level of knowledge about oncology in undergraduate students, pre- and post-intervention, will al- low the evaluation of potential questions raised by previous studies."
