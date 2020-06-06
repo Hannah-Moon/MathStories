@@ -28,3 +28,7 @@ Oncology . Physical therapy specialty . Education . Teaching and methods . Educa
 - Elearning grant the area of oncology and understanding multi disciplinary nature
 - Currently e-learning does not fully offer the curriculum that in class offer.  
 - "In this sense, the realization of a random- ized, controlled crossover study with similar content between the groups, evaluating the level of knowledge about oncology in undergraduate students, pre- and post-intervention, will al- low the evaluation of potential questions raised by previous studies."
+
+## Method
+- Design: A prospective, controlled, randomized, and crossover study without blinding 
+- Setting: BFundamentals of Oncological Physiotherapy
