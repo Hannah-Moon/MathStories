@@ -1,4 +1,12 @@
 # Oncology E-Learning for Undergraduate. A Prospective Randomized Controlled Trial
 ====================
+- Da Costa Vieira, René Aloisio, Lopes, A. H., Sarri, A. J., Benedetti, Z. C., & de Oliveira, C. Z. (2017). Oncology E-learning for undergraduate. A prospective randomized controlled trial. 
+- Journal of Cancer Education, 32(2), 344-351. doi:http://dx.doi.org.proxy.library.cmu.edu/10.1007/s13187-015-0979-9
+- https://search-proquest-com.proxy.library.cmu.edu/docview/1859706830?accountid=9902&rfr_id=info%3Axri%2Fsid%3Aprimo
 
-Da Costa Vieira, René Aloisio; Lopes, Ana Helena; Sarri, Almir José; Benedetti, Zuleica Caulada; de Oliveira, Cleyton Zanardo.Journal of Cancer Education; New York Vol. 32, Iss. 2,  (Jun 2017): 344-351. DOI:10.1007/s13187-015-0979-9
+## Abstract 
+- Not manay oncology relarted e-learning has been studied 
+- The purpose of the study was to explore the retention rate of oncology in undergraduate students of physiotherapy.  
+- Randomized Sample: 72 undergraduate students from physiotherapy in 2nd to 4th year 
+- Students were offered to experience traditional class room or e-learning (Articulate® software). 
+- 
