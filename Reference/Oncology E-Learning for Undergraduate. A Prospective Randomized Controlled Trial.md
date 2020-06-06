@@ -10,4 +10,5 @@
 - Randomized Sample: 72 undergraduate students from physiotherapy in 2nd to 4th year 
 - Students were offered to experience traditional class room or e-learning (Articulate® software). 
 - 6 modules, 18 lessons, evaluated by 126 questions. 
-- 
+- Dignosis evaluation = 67 students were divided into two groups (n=35) and B(n=32) 
+- The level of information retention was statistically similar between the traditional classroom form and the e- learning, a fact that encourages the use of e-learning in oncology.
