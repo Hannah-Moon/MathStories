@@ -7,5 +7,4 @@ Evaluation of story-based math learning methods for individuals with math anxiet
 
 
 ## Reference 
--------------
-* [Oncology E-Learning for Undergraduate. A Prospective Randomized Controlled Trial](https://github.com/Hannah-Moon/MathStories/blob/master/Reference/Oncology%20E-Learning%20for%20Undergraduate.%20A%20Prospective%20Randomized%20Controlled%20Trial.md)
+1. [Oncology E-Learning for Undergraduate. A Prospective Randomized Controlled Trial](https://github.com/Hannah-Moon/MathStories/blob/master/Reference/Oncology%20E-Learning%20for%20Undergraduate.%20A%20Prospective%20Randomized%20Controlled%20Trial.md)
