@@ -12,3 +12,10 @@
 - 6 modules, 18 lessons, evaluated by 126 questions. 
 - Dignosis evaluation = 67 students were divided into two groups (n=35) and B(n=32) 
 - The level of information retention was statistically similar between the traditional classroom form and the e- learning, a fact that encourages the use of e-learning in oncology.
+
+
+## Clinical Trial Registration number
+REBECU1111-1142-1963
+
+## Keywords 
+Oncology . Physical therapy specialty . Education . Teaching and methods . Education, distance . Education, higher
