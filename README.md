@@ -8,4 +8,4 @@ Evaluation of story-based math learning methods for individuals with math anxiet
 
 ## Reference 
 -------------
-* [Oncology E-Learning for Undergraduate. A Prospective Randomized Controlled Trial](https://github.com/Hannah-Moon/AI_Patent/blob/master/Article_Summary/Automating%20the%20search%20for%20a%20patent%E2%80%99s%20prior%20art%20with%20a%20full%20text%20similarity%20search.md)
+* [Oncology E-Learning for Undergraduate. A Prospective Randomized Controlled Trial](https://github.com/Hannah-Moon/MathStories/blob/master/Reference/Oncology%20E-Learning%20for%20Undergraduate.%20A%20Prospective%20Randomized%20Controlled%20Trial.md)
