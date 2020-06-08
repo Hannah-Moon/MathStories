@@ -30,11 +30,22 @@ Oncology . Physical therapy specialty . Education . Teaching and methods . Educa
 - "In this sense, the realization of a random- ized, controlled crossover study with similar content between the groups, evaluating the level of knowledge about oncology in undergraduate students, pre- and post-intervention, will al- low the evaluation of potential questions raised by previous studies."
 
 ## Method
-### Design: A prospective, controlled, randomized, and crossover study without blinding 
+### Design
+- A prospective, controlled, randomized, and crossover study without blinding 
 ### Setting
 - "Fundamentals of Oncological Physiotherapy" 4 years in duration class 
 - Older than 18 years, with a weighted average grade ≥ 5.0
 - Lecture title: BImportance of Clinical Trials and Physiotherapy in the Epidemiological Context of Cancer was given to all enrolled
 - Informed consent forms and obtained. 
 - Sociodemographic questionnaire.
-
+### Course Evaluation
+- Used easy to understand words
+- Pre & Post Tests
+- Provided a free space to student for resources 
+### Statistical Analysis
+- Used descriptive statistics: means, medians, and standard deviations
+- Each student received the grade in the diagnostic evaluation
+- Fisher's exact test for categorical variable 
+- Student's T-test for independent samples
+### Result
+- 
