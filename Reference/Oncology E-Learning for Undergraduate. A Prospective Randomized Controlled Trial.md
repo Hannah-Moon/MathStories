@@ -47,5 +47,8 @@ Oncology . Physical therapy specialty . Education . Teaching and methods . Educa
 - Each student received the grade in the diagnostic evaluation
 - Fisher's exact test for categorical variable 
 - Student's T-test for independent samples
-### Result
-- 
+- Used Articulate® 
+### Discussion 
+- Presents satisfactory scientific evidence of the effectiveness of e-learning in oncology for undergraduate students of physiotherapy, a fact that opens the way for other undergraduate courses in the field of oncol- ogy, other undergraduate health-related areas, or oncology residents.
+### Conclusion
+E-learning modalities are a complementary way to improve oncology knowledge to undergraduate students. The use sub- stitution of conventional classroom to e-learning modality leads to same results of retention of information, a fact that promotes e-learning methodology. It is necessary for more studies to evaluate the requirement of specific oncology course during graduation of Physiotherapy.
